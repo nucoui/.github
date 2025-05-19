@@ -2,5 +2,8 @@
 
 ## Packages
 
-- `@nuco/core`
-- `@nuco/define-shadow-custom-element`
+- `@nuco/*`
+  - `@nuco/core`
+  - `@nuco/react`
+  - `@nuco/vue`
+- `tora`
